@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-
+    #!/usr/bin/env python
+#faasle
 import sys
 
 def reducer():
